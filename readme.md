@@ -23,9 +23,3 @@ seed
 ```
 php artisan db:seed 
 ```
-
----
-
-documentation:
-
-https://app.swaggerhub.com/apis-docs/nestisamet/mulakatAPI/1.0.0
